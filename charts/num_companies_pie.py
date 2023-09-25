@@ -14,7 +14,7 @@ def read_data_from_csv(file_path):
     except Exception as e:
         print(f"Error reading data from {file_path}: {str(e)}")
         return None
-    
+
 
 def create_pie_chart(data):
     if data is not None:
@@ -29,14 +29,4 @@ def create_pie_chart(data):
             values="total",
             title="Data Representation in Pie Chart",
         )
-        fig.show()
-
-
-# Usage:
-file_path = (
-    "./data/chart_data/num_companies_data.csv"  # Replace with the path to your CSV file
-)
-data = read_data_from_csv(file_path)
-
-if data is not None:
-    create_pie_chart(data)
+        return fig

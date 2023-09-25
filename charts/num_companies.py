@@ -30,14 +30,4 @@ def create_bar_chart(data):
             labels={"date": "Date", "value": "Count"},
             title="Data Representation in Bar Chart",
         )
-        fig.show()
-
-
-# Usage:
-file_path = (
-    "./data/chart_data/num_companies_data.csv"  # Replace with the path to your CSV file
-)
-data = read_data_from_csv(file_path)
-
-if data is not None:
-    create_bar_chart(data)
+        return fig

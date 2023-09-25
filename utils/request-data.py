@@ -2,7 +2,7 @@ import requests
 import json
 import os
 from dotenv import load_dotenv
-import format_data
+import utils.format_data as format_data
 
 # Load the stored environment variables
 load_dotenv()
