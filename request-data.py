@@ -8,8 +8,8 @@ import format_data
 load_dotenv()
 
 api_key = os.getenv("API_KEY")
-date = "2023-09-20"
-url = f"https://api.company-information.service.gov.uk/advanced-search/companies?incorporated_from={date}&incorporated_to={date}&size=50"
+date = "2023-09-24"
+url = f"https://api.company-information.service.gov.uk/advanced-search/companies?incorporated_from={date}&incorporated_to={date}&size=5000"
 headers = {"Authorization": f"{api_key}"}
 
 

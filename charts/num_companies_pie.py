@@ -14,21 +14,20 @@ def read_data_from_csv(file_path):
     except Exception as e:
         print(f"Error reading data from {file_path}: {str(e)}")
         return None
+    
 
-
-def create_bar_chart(data):
+def create_pie_chart(data):
     if data is not None:
         y_columns = [col for col in data.columns if col != "date"]
 
         all_columns = ["date"] + y_columns
-        data = data.reindex(columns=all_columns, fill_value=0)
+        data["total"] = data[y_columns].sum(axis=1)
 
-        fig = px.bar(
+        fig = px.pie(
             data,
-            x="date",
-            y=y_columns,
-            labels={"date": "Date", "value": "Count"},
-            title="Data Representation in Bar Chart",
+            names="date",
+            values="total",
+            title="Data Representation in Pie Chart",
         )
         fig.show()
 
@@ -40,4 +39,4 @@ file_path = (
 data = read_data_from_csv(file_path)
 
 if data is not None:
-    create_bar_chart(data)
+    create_pie_chart(data)
