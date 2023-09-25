@@ -1,0 +1,1079 @@
+{
+    "etag": "3d89888f02278607540ba6da091e3cecd9dc1517",
+    "top_hit": {
+        "company_name": "LKHE LEGACY LIMITED",
+        "company_number": "15146430",
+        "company_status": "active",
+        "company_type": "ltd",
+        "kind": "search-results#company",
+        "links": {
+            "company_profile": "/company/15146430"
+        },
+        "date_of_creation": "2023-09-19",
+        "registered_office_address": {
+            "address_line_1": "Horse And Jockey Dale Road",
+            "address_line_2": "Rawmarsh",
+            "locality": "Rotherham",
+            "postal_code": "S62 5AB",
+            "region": "Yorkshire",
+            "country": "United Kingdom"
+        },
+        "sic_codes": [
+            "56302"
+        ]
+    },
+    "items": [
+        {
+            "company_name": "LKHE LEGACY LIMITED",
+            "company_number": "15146430",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146430"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Horse And Jockey Dale Road",
+                "address_line_2": "Rawmarsh",
+                "locality": "Rotherham",
+                "postal_code": "S62 5AB",
+                "region": "Yorkshire",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "56302"
+            ]
+        },
+        {
+            "company_name": "SKS PROPERTY MAINTENANCE LTD",
+            "company_number": "15146422",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146422"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "1 Ffos Yr Efail Terrace",
+                "address_line_2": "Pontarddulais",
+                "locality": "Swansea",
+                "postal_code": "SA4 8RN",
+                "country": "Wales"
+            },
+            "sic_codes": [
+                "98000"
+            ]
+        },
+        {
+            "company_name": "HYER POWER LTD",
+            "company_number": "SC782913",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/SC782913"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Unit 2 Taygate Industrial Estate",
+                "address_line_2": "Coldside Road",
+                "locality": "Dundee",
+                "postal_code": "DD3 8DF",
+                "country": "Scotland"
+            },
+            "sic_codes": [
+                "46190",
+                "46900",
+                "47990",
+                "77390"
+            ]
+        },
+        {
+            "company_name": "LSR ELECTRICAL SOLUTIONS LTD",
+            "company_number": "15146438",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146438"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "41 Donald Road",
+                "locality": "Croydon",
+                "postal_code": "CR0 3EQ",
+                "country": "England"
+            },
+            "sic_codes": [
+                "43210"
+            ]
+        },
+        {
+            "company_name": "COSINE LABS LTD",
+            "company_number": "15146435",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146435"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Flat 1906 Landmark West Tower 22 Marsh Wall",
+                "locality": "London",
+                "postal_code": "E14 9AH",
+                "country": "England"
+            },
+            "sic_codes": [
+                "64999"
+            ]
+        },
+        {
+            "company_name": "ALJABOURI PROPERTIES LTD",
+            "company_number": "SC782912",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/SC782912"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "3 Dochart Oval",
+                "locality": "Glasgow",
+                "postal_code": "G33 1PS",
+                "country": "Scotland"
+            },
+            "sic_codes": [
+                "68209"
+            ]
+        },
+        {
+            "company_name": "GLANKAS TRADES LTD",
+            "company_number": "15146433",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146433"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "61 Sherborne Road",
+                "locality": "Peterborough",
+                "postal_code": "PE1 4RN",
+                "country": "England"
+            },
+            "sic_codes": [
+                "68320"
+            ]
+        },
+        {
+            "company_name": "UNI-LINK EDUCATION SERVICES LIMITED",
+            "company_number": "15146445",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146445"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "36 Woodgrange Road",
+                "locality": "London",
+                "postal_code": "E7 0QH",
+                "country": "England"
+            },
+            "sic_codes": [
+                "85600"
+            ]
+        },
+        {
+            "company_name": "CREATIVE LOVE MARKETING LIMITED",
+            "company_number": "15146439",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146439"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "276 Central Park Road",
+                "locality": "London",
+                "postal_code": "E6 3AD",
+                "country": "England"
+            },
+            "sic_codes": [
+                "47990"
+            ]
+        },
+        {
+            "company_name": "PAULAPRO SKINCARE LTD",
+            "company_number": "15146442",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146442"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "29 Willsbridge Covert",
+                "locality": "Birmingham",
+                "postal_code": "B14 5YD",
+                "region": "West Midlands",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "47750"
+            ]
+        },
+        {
+            "company_name": "SIMONLOGIST LIMITED",
+            "company_number": "15146454",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146454"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "20 Rann Close",
+                "locality": "Birmingham",
+                "postal_code": "B16 8HF",
+                "country": "England"
+            },
+            "sic_codes": [
+                "45112"
+            ]
+        },
+        {
+            "company_name": "ATMOSFERE LIMITED",
+            "company_number": "15146464",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146464"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Flat 8 Stephen Court",
+                "address_line_2": "5 Diss Street",
+                "locality": "London",
+                "postal_code": "E2 7QX",
+                "country": "England"
+            },
+            "sic_codes": [
+                "62012"
+            ]
+        },
+        {
+            "company_name": "MORIPOD PROPERTIES LTD",
+            "company_number": "15146469",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146469"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "55 55 Kempster Gardens",
+                "locality": "Salford",
+                "postal_code": "M7 1AD",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "55900"
+            ]
+        },
+        {
+            "company_name": "THEDHIRAR LTD",
+            "company_number": "15146473",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146473"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "18731 Unit F, Winston Business Park",
+                "locality": "Sheffield",
+                "postal_code": "S35 2PS",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "58190"
+            ]
+        },
+        {
+            "company_name": "YOUR SEO MARKETING LTD",
+            "company_number": "15146461",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146461"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "20 Wenlock Road",
+                "locality": "London",
+                "postal_code": "N1 7GU",
+                "country": "England"
+            },
+            "sic_codes": [
+                "73110"
+            ]
+        },
+        {
+            "company_name": "MZX CORPORATE LIMITED",
+            "company_number": "15146475",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146475"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "124-128 City Road",
+                "locality": "London",
+                "postal_code": "EC1V 2NX",
+                "country": "England"
+            },
+            "sic_codes": [
+                "47910"
+            ]
+        },
+        {
+            "company_name": "MOGIS 2023 LTD",
+            "company_number": "15146483",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146483"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Prospect Victoria Terrace",
+                "address_line_2": "Penshaw",
+                "locality": "Houghton Le Spring",
+                "postal_code": "DH4 7EJ",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "56101"
+            ]
+        },
+        {
+            "company_name": "LAMBENT GLOBAL LIMITED",
+            "company_number": "15146479",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146479"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "21 Bruce Street",
+                "locality": "Leicester",
+                "postal_code": "LE3 0AF",
+                "country": "England"
+            },
+            "sic_codes": [
+                "09100",
+                "09900",
+                "46120",
+                "47990"
+            ]
+        },
+        {
+            "company_name": "KELVIN NEAL HUMPHRIES LTD",
+            "company_number": "15146481",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146481"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Flat 4 Hollins Court",
+                "address_line_2": "19 Green Lane",
+                "locality": "Edgware",
+                "postal_code": "HA8 7PL",
+                "country": "England"
+            },
+            "sic_codes": [
+                "23320"
+            ]
+        },
+        {
+            "company_name": "HPC HEATING PLUMBING CONSTRUCTION LIMITED",
+            "company_number": "15146480",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146480"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "22 Cobbold Road",
+                "locality": "London",
+                "postal_code": "NW10 9SX",
+                "country": "England"
+            },
+            "sic_codes": [
+                "41202",
+                "43220",
+                "81210"
+            ]
+        },
+        {
+            "company_name": "JORDEN CLARK LTD",
+            "company_number": "15146499",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146499"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "9 Church Street",
+                "locality": "Kidderminster",
+                "postal_code": "DY10 2AD",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "43120"
+            ]
+        },
+        {
+            "company_name": "MOGOBLO LTD",
+            "company_number": "15146492",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146492"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "128 128 City Road, London, Ec1v 2nx",
+                "locality": "London",
+                "postal_code": "EC1V 2NX",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "47990"
+            ]
+        },
+        {
+            "company_name": "BAWTRY AUTOMEK LIMITED",
+            "company_number": "15146496",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146496"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Un9 Armstrong House",
+                "address_line_2": "First Avenue Finningley",
+                "locality": "Doncaster",
+                "postal_code": "DN9 3GA",
+                "region": "South Yorkshire",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "45200"
+            ]
+        },
+        {
+            "company_name": "ZIMIN FOUNDATION UK",
+            "company_number": "15146489",
+            "company_status": "active",
+            "company_type": "private-limited-guarant-nsc-limited-exemption",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146489"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "66 Lincoln's Inn Fields",
+                "locality": "London",
+                "postal_code": "WC2A 3LH",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "63990",
+                "72190",
+                "72200",
+                "85590"
+            ]
+        },
+        {
+            "company_name": "UNFAMILIARINGLY LIMITED",
+            "company_number": "15146517",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146517"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "36 Langdale Road",
+                "address_line_2": "Wistaston",
+                "locality": "Crewe",
+                "postal_code": "CW2 8RS",
+                "country": "England"
+            },
+            "sic_codes": [
+                "32120"
+            ]
+        },
+        {
+            "company_name": "MAS TIEMPO RECORDS LTD",
+            "company_number": "15146511",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146511"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "2nd Floor Northumberland House",
+                "address_line_2": "303-306 High Holborn",
+                "locality": "London",
+                "postal_code": "WC1V 7JZ",
+                "country": "England"
+            },
+            "sic_codes": [
+                "59200",
+                "90030"
+            ]
+        },
+        {
+            "company_name": "SHROPSHIRE BODYSHOP LTD",
+            "company_number": "15146513",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146513"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "10 Park Plaza",
+                "address_line_2": "Battlefield Enterprise Park",
+                "locality": "Shrewsbury",
+                "postal_code": "SY1 3AF",
+                "region": "Shropshire",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "99999"
+            ]
+        },
+        {
+            "company_name": "BY CREATORS LTD",
+            "company_number": "15146509",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146509"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Flat 7 7a Exchange Gardens",
+                "locality": "London",
+                "postal_code": "SW8 1GF",
+                "country": "England"
+            },
+            "sic_codes": [
+                "70210",
+                "73110",
+                "85590",
+                "90030"
+            ]
+        },
+        {
+            "company_name": "STEPWAY TRADING LTD",
+            "company_number": "15146501",
+            "company_status": "active",
+            "company_type": "private-limited-guarant-nsc",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146501"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "The Trinity",
+                "locality": "Worcester",
+                "postal_code": "WR1 2PN",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "47890",
+                "47910",
+                "47990"
+            ]
+        },
+        {
+            "company_name": "INSECTICIDDUO LIMITED",
+            "company_number": "15146502",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146502"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "34 Galton Road",
+                "locality": "Westcliff-On-Sea",
+                "postal_code": "SS0 8LA",
+                "country": "England"
+            },
+            "sic_codes": [
+                "32120"
+            ]
+        },
+        {
+            "company_name": "COASTAL LIVING HOLIDAYS LIMITED",
+            "company_number": "15146518",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146518"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Clifton House Dartmouth Road",
+                "address_line_2": "Strete",
+                "locality": "Dartmouth",
+                "postal_code": "TQ6 0RW",
+                "region": "Devon",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "55209"
+            ]
+        },
+        {
+            "company_name": "SHAHNAZ&SONSENTERPRISES LTD",
+            "company_number": "15146520",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146520"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Office 4767 321-323 High Road",
+                "address_line_2": "Chadwell Heath",
+                "locality": "Essex",
+                "postal_code": "RM6 6AX",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "47722"
+            ]
+        },
+        {
+            "company_name": "GUESTZEN LIMITED",
+            "company_number": "15146519",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146519"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "71-75 Shelton Street",
+                "address_line_2": "Covent Garden",
+                "locality": "London",
+                "postal_code": "WC2H 9JQ",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "62020",
+                "62090",
+                "63120"
+            ]
+        },
+        {
+            "company_name": "EMET WEALTH PLANNERS LTD",
+            "company_number": "15146544",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146544"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Suite 41 Pure Offices Midshires Business Park",
+                "address_line_2": "Smeaton Close",
+                "locality": "Aylesbury",
+                "postal_code": "HP19 8HL",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "64205"
+            ]
+        },
+        {
+            "company_name": "SOUTH EAST BUILDING & DESIGN LTD",
+            "company_number": "15146542",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146542"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Shortwood Farm",
+                "address_line_2": "Freezeland Lane",
+                "locality": "Bexhill On Sea",
+                "postal_code": "TN39 5JD",
+                "region": "East Sussex",
+                "country": "England"
+            },
+            "sic_codes": [
+                "41202"
+            ]
+        },
+        {
+            "company_name": "ROCKY CONSTRUCTION 97 LTD",
+            "company_number": "15146529",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146529"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "42b Greenwood Road Liantrisant Road",
+                "locality": "Cardiff",
+                "postal_code": "CF5 2PX",
+                "country": "Wales"
+            },
+            "sic_codes": [
+                "41202"
+            ]
+        },
+        {
+            "company_name": "HUAYING TRADING CO., LTD",
+            "company_number": "15146534",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146534"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Chase Business Centre",
+                "address_line_2": "39-41chase Side",
+                "locality": "London",
+                "postal_code": "N14 5BP",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "46900"
+            ]
+        },
+        {
+            "company_name": "FELIZPAW LTD",
+            "company_number": "15146546",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146546"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "86-90 Paul Street",
+                "locality": "London",
+                "postal_code": "EC2A 4NE",
+                "country": "England"
+            },
+            "sic_codes": [
+                "47910"
+            ]
+        },
+        {
+            "company_name": "SMARTEC IT CONSULTING LTD",
+            "company_number": "15146533",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146533"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "15 Pucknells Close",
+                "locality": "Swanley",
+                "postal_code": "BR8 7TH",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "82990"
+            ]
+        },
+        {
+            "company_name": "SS MINIBUS LIMITED",
+            "company_number": "15146527",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146527"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "67 Norfolk Terrace",
+                "locality": "Aylesbury",
+                "postal_code": "HP20 1AN",
+                "country": "England"
+            },
+            "sic_codes": [
+                "77110"
+            ]
+        },
+        {
+            "company_name": "ALAGIE JADAMA ELECTRICAL LIMITED",
+            "company_number": "15146528",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146528"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "2a Langley Parade",
+                "locality": "Crawley",
+                "postal_code": "RH11 7RS",
+                "country": "England"
+            },
+            "sic_codes": [
+                "43210"
+            ]
+        },
+        {
+            "company_name": "11X1 LUXURY LETS LTD",
+            "company_number": "15146535",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146535"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "102 Trevino Drive",
+                "locality": "Leicester",
+                "postal_code": "LE4 7PH",
+                "country": "England"
+            },
+            "sic_codes": [
+                "98000"
+            ]
+        },
+        {
+            "company_name": "MAITLAND SA LIMITED",
+            "company_number": "15146552",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146552"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "154 Lancaster Road",
+                "locality": "Salford",
+                "postal_code": "M6 8LX",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "68209"
+            ]
+        },
+        {
+            "company_name": "NUMI SCAN MK LTD",
+            "company_number": "15146567",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146567"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "12 Kenchester",
+                "address_line_2": "Bancroft",
+                "locality": "Milton Keynes",
+                "postal_code": "MK13 0QP",
+                "country": "England"
+            },
+            "sic_codes": [
+                "86210",
+                "86220",
+                "86900"
+            ]
+        },
+        {
+            "company_name": "GOLDEN WARE LTD",
+            "company_number": "15146561",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146561"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "36-38 Cornhill",
+                "locality": "London",
+                "postal_code": "EC3V 3NG",
+                "country": "England"
+            },
+            "sic_codes": [
+                "46420",
+                "47710"
+            ]
+        },
+        {
+            "company_name": "FELIXBRE LIMITED",
+            "company_number": "15146564",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146564"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "107 Milton Road",
+                "locality": "Cambridge",
+                "postal_code": "CB4 1XE",
+                "country": "England"
+            },
+            "sic_codes": [
+                "71111"
+            ]
+        },
+        {
+            "company_name": "BEAN BUZZ LIMITED",
+            "company_number": "15146558",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146558"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "44 Charlecote Road",
+                "locality": "Dagenham",
+                "postal_code": "RM8 3LD",
+                "country": "England"
+            },
+            "sic_codes": [
+                "10832",
+                "56101",
+                "56102"
+            ]
+        },
+        {
+            "company_name": "24/7 NIGHTS LIMITED",
+            "company_number": "15146549",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146549"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Unit A 82 James Carter Road",
+                "address_line_2": "Mildenhall",
+                "locality": "Suffolk",
+                "postal_code": "IP28 7DE",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "55100"
+            ]
+        },
+        {
+            "company_name": "INNOVGAD LTD",
+            "company_number": "15146571",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146571"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "71-75 Shelton Street",
+                "address_line_2": "Covent Garden",
+                "locality": "London",
+                "postal_code": "WC2H 9JQ",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "47910"
+            ]
+        },
+        {
+            "company_name": "CERTIFIED CPD LTD",
+            "company_number": "15146554",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146554"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "141 Wrythe Lane",
+                "locality": "Carshalton",
+                "postal_code": "SM5 2RU",
+                "country": "England"
+            },
+            "sic_codes": [
+                "70229",
+                "85590"
+            ]
+        }
+    ],
+    "kind": "search#advanced-search",
+    "hits": 3151
+}

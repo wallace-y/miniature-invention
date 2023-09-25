@@ -1,8 +1,6 @@
 import json
 import csv
 
-file_name = "data/2023-09/2023-09-24-data.json"
-
 
 def read_json_api_data(file_name):
     with open(file_name, "r") as json_file:
@@ -10,7 +8,7 @@ def read_json_api_data(file_name):
         return data["items"]
 
 
-def save_json_api_data_to_csv():
+def save_json_api_data_to_csv(file_name):
     company_data = read_json_api_data(file_name)
 
     with open(
@@ -29,5 +27,3 @@ def save_json_api_data_to_csv():
                 }
             )
 
-
-save_json_api_data_to_csv()
