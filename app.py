@@ -47,6 +47,7 @@ top_names_data = top_10_names.get_top_names_from_csv(
 
 
 app = Dash(__name__)
+server = app.server
 
 app.layout = html.Div(
     children=[
