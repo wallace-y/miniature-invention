@@ -28,6 +28,6 @@ def create_bar_chart(data):
             x="date",
             y=y_columns,
             labels={"date": "Date", "value": "Count"},
-            title="Data Representation in Bar Chart",
+            title="Companies Incorpoated By Type By Day",
         )
         return fig
