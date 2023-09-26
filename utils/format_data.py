@@ -16,7 +16,7 @@ def save_json_api_data_to_csv(file_name):
         "w",
         newline="",
     ) as csvfile:
-        fieldnames = ["date", "type"]
+        fieldnames = ["date", "type", "name"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for item in company_data:
@@ -24,6 +24,6 @@ def save_json_api_data_to_csv(file_name):
                 {
                     "date": item["date_of_creation"],
                     "type": item["company_type"],
+                    "name": item["company_name"],
                 }
             )
-

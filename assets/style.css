@@ -1,20 +1,54 @@
-/* Style for the header */
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+
+}
+
 .header-title {
-  font-size: 36px;
+  text-align: center;
+  margin-top: 20px;
   color: #333;
-  text-align: center;
 }
 
-/* Style for the paragraph */
-p {
-  font-size: 16px;
-  color: #666;
-  text-align: center;
+.sub-header {
+  font-size: 1.5em;
+  margin-top: 20px;
+  color: #333;
 }
 
-/* Style for the graphs */
+/* Styles for rows and columns */
+.dash-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.dash-column {
+  flex: 0 0 calc(50% - 20px);
+  margin: 10px;
+}
+
+/* Styles for graphs */
 .dash-graph {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Styles for the top words list */
+.top-words-container {
   margin: 20px;
   padding: 20px;
-  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
+.top-words-list {
+  list-style-type: square;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+/* Add additional styles as needed */
