@@ -1,4 +1,5 @@
 # env variables
 .env
 
-data
+data/*
+!data/chart_data/
