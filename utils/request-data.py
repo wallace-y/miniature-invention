@@ -14,7 +14,17 @@ import format_data
 # Load the stored environment variables
 load_dotenv()
 
-dates = ["2023-09-25", "2023-09-26"]
+dates = [
+    "2023-09-09",
+    "2023-09-10",
+    "2023-09-11",
+    "2023-09-12",
+    "2023-09-13",
+    "2023-09-14",
+    "2023-09-15",
+    "2023-09-16",
+    "2023-09-17",
+]
 
 api_key = os.getenv("API_KEY")
 
