@@ -28,16 +28,6 @@ def create_bar_chart(data):
             x="date",
             y=y_columns,
             labels={"date": "Date", "value": "Count"},
-            title="Data Representation in Bar Chart",
+            title="Companies Incorpoated By Type By Day",
         )
-        fig.show()
-
-
-# Usage:
-file_path = (
-    "./data/chart_data/num_companies_data.csv"  # Replace with the path to your CSV file
-)
-data = read_data_from_csv(file_path)
-
-if data is not None:
-    create_bar_chart(data)
+        return fig

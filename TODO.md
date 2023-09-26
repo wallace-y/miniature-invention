@@ -1,0 +1,6 @@
+- [] Geographic distribution map
+- [] Most common SIC odes
+- [] New companies over time
+- [] Seasonal trends in company creation
+- [] Regional analysis / type / location
+- [] Company Name Analysis

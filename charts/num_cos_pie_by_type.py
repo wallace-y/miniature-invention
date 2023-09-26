@@ -18,15 +18,18 @@ def read_data_from_csv(file_path):
 
 def create_pie_chart(data):
     if data is not None:
-        y_columns = [col for col in data.columns if col != "date"]
+        # Pivot the data to have company types as columns
+        pivoted_data = data.melt(
+            id_vars=["date"], var_name="company_type", value_name="count"
+        )
 
-        all_columns = ["date"] + y_columns
-        data["total"] = data[y_columns].sum(axis=1)
+        # Drop rows with missing values in the "count" column
+        pivoted_data = pivoted_data.dropna(subset=["count"])
 
         fig = px.pie(
-            data,
-            names="date",
-            values="total",
-            title="Pie Chart - Companies By Day Of Incorporation",
+            pivoted_data,
+            names="company_type",
+            values="count",
+            title="Pie Chart - Companies By Type",
         )
         return fig
