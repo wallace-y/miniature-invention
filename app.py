@@ -12,6 +12,7 @@ from charts import (
     num_companies_pie,
     num_cos_pie_by_type,
     num_co_line_past_month,
+    top_10_names,
 )
 
 # Load your data here
@@ -22,6 +23,27 @@ num_companies_data = num_co_bar_past_week.read_data_from_csv(file_path)
 num_companies_pie_data = num_companies_pie.read_data_from_csv(file_path)
 num_companies_pie_data_type = num_cos_pie_by_type.read_data_from_csv(file_path)
 num_co_line_past_month_data = num_co_line_past_month.read_data_from_csv(file_path)
+
+# Name Analysis
+co_name_file_path = "./data/chart_data/company_name_analysis.csv"
+exclude_words = [
+    "&",
+    "LTD",
+    "LIMITED",
+    "THE",
+    "GROUP",
+    "AND",
+    "UK",
+    "HOLDINGS",
+    "CO",
+    "TRADING",
+    "LLP",
+    "CIC",
+    "OF",
+]  # Words to exclude
+top_names_data = top_10_names.get_top_names_from_csv(
+    co_name_file_path, exclude_words, top_n=10
+)
 
 
 app = Dash(__name__)
@@ -34,26 +56,74 @@ app.layout = html.Div(
                 "Analysis of UK companies incorporation data in the past week 18-09-2023 - 24-09-2023"
             ),
         ),
-        dcc.Graph(
-            figure=num_co_bar_past_week.create_bar_chart(num_companies_data),
-            className="dash-graph",
+        html.Div(
+            className="dash-row",
+            children=[
+                html.Div(
+                    className="dash-column",
+                    children=[
+                        dcc.Graph(
+                            figure=num_co_bar_past_week.create_bar_chart(
+                                num_companies_data
+                            ),
+                            className="dash-graph",
+                        ),
+                    ],
+                ),
+                html.Div(
+                    className="dash-column",
+                    children=[
+                        dcc.Graph(
+                            figure=num_companies_pie.create_pie_chart(
+                                num_companies_pie_data
+                            ),
+                            className="dash-graph",
+                        ),
+                    ],
+                ),
+            ],
         ),
-        dcc.Graph(
-            figure=num_companies_pie.create_pie_chart(num_companies_pie_data),
-            className="dash-graph",
+        html.Div(
+            className="dash-row",
+            children=[
+                html.Div(
+                    className="dash-column",
+                    children=[
+                        dcc.Graph(
+                            figure=num_cos_pie_by_type.create_pie_chart(
+                                num_companies_pie_data_type
+                            ),
+                            className="dash-graph",
+                        ),
+                    ],
+                ),
+                html.Div(
+                    className="dash-column",
+                    children=[
+                        dcc.Graph(
+                            figure=num_co_line_past_month.create_line_chart(
+                                num_co_line_past_month_data
+                            ),
+                            className="dash-graph",
+                        ),
+                    ],
+                ),
+            ],
         ),
-        dcc.Graph(
-            figure=num_cos_pie_by_type.create_pie_chart(num_companies_pie_data_type),
-            className="dash-graph",
-        ),
-        dcc.Graph(
-            figure=num_co_line_past_month.create_line_chart(
-                num_co_line_past_month_data
-            ),
-            className="dash-graph",
+        html.Div(
+            children=[
+                html.H2(children="Top 10 Words", className="sub-header"),
+                html.Ul(
+                    [html.Li(word) for word in top_names_data],
+                    style={"list-style-type": "square"},
+                    className="top-words-list",
+                ),
+            ],
+            className="top-words-container",
         ),
     ]
 )
+
 
 if __name__ == "__main__":
     app.run_server(debug=True)

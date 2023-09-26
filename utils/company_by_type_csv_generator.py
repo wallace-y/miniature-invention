@@ -27,7 +27,7 @@ for filename in os.listdir(csv_directory):
             csv_reader = csv.reader(csv_file)
             next(csv_reader)  # Skip the header row
             for row in csv_reader:
-                date, type = row
+                date, type, _ = row # ignore the 'name' col
                 if date not in combined_data:
                     combined_data[date] = {"date": date}
                 if type not in combined_data[date]:
