@@ -32,4 +32,7 @@ def create_pie_chart(data):
             values="count",
             title="Pie Chart - Companies By Type",
         )
+
+        fig.update_layout(font_color="#333")
+
         return fig

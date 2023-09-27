@@ -30,4 +30,10 @@ def create_bar_chart(data):
             labels={"date": "Date", "value": "Count"},
             title="Companies Incorporated By Type",
         )
+
+        fig.update_layout(
+            plot_bgcolor="#f2f2f2",
+            paper_bgcolor="#fff",
+            font_color="#333"
+        )
         return fig

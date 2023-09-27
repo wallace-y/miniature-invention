@@ -29,4 +29,6 @@ def create_pie_chart(data):
             values="total",
             title="Pie Chart - Companies By Day Of Incorporation",
         )
+
+        fig.update_layout(font_color="#333")
         return fig
