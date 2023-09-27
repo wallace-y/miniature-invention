@@ -56,6 +56,7 @@ app.layout = html.Div(
             children=(
                 "Analysis of UK companies incorporation data in the past week 18-09-2023 - 24-09-2023"
             ),
+            className="sub-header"
         ),
         html.Div(
             className="dash-row",

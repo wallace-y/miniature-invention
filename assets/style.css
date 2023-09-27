@@ -2,7 +2,8 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #f2f2f2;
-
+  margin: 0;
+  padding: 0;
 }
 
 .header-title {
@@ -12,6 +13,7 @@ body {
 }
 
 .sub-header {
+  text-align: center;
   font-size: 1.5em;
   margin-top: 20px;
   color: #333;
@@ -26,13 +28,13 @@ body {
 
 .dash-column {
   flex: 0 0 calc(50% - 20px);
-  margin: 10px;
+  margin: 5px;
 }
 
 /* Styles for graphs */
 .dash-graph {
-  background-color: #fff;
-  border: 1px solid #ddd;
+  text-align: center;
+  border: 5px solid black;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
@@ -50,5 +52,3 @@ body {
   padding-left: 20px;
   margin-top: 10px;
 }
-
-/* Add additional styles as needed */

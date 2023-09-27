@@ -32,4 +32,8 @@ def create_line_chart(data):
             labels={"date": "Date", "total": "Count"},
             title="Companies Incorporated By Type By Day Past Month",
         )
+
+        fig.update_layout(
+            plot_bgcolor="#f2f2f2", paper_bgcolor="#fff", font_color="#333"
+        )
         return fig
