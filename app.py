@@ -13,6 +13,7 @@ from charts import (
     num_cos_pie_by_type,
     num_co_line_past_month,
     top_10_names,
+    geo_map_of_cos,
 )
 
 # Load your data here
@@ -45,6 +46,10 @@ exclude_words = [
 top_names_data = top_10_names.get_top_names_from_csv(
     co_name_file_path, exclude_words, top_n=10
 )
+
+# Map analysis
+map_file_path = "./data/chart_data/lat_long_data.csv"
+geo_data = geo_map_of_cos.read_data_from_csv(map_file_path)
 
 
 app = Dash(__name__)
@@ -107,6 +112,20 @@ app.layout = html.Div(
                             figure=num_co_line_past_month.create_line_chart(
                                 num_co_line_past_month_data
                             ),
+                            className="dash-graph",
+                        ),
+                    ],
+                ),
+            ],
+        ),
+        html.Div(
+            className="dash-row",
+            children=[
+                html.Div(
+                    className="dash-column",
+                    children=[
+                        dcc.Graph(
+                            figure=geo_map_of_cos.create_scattermap(geo_data),
                             className="dash-graph",
                         ),
                     ],
