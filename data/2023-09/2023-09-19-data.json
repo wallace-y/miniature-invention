@@ -1,5 +1,5 @@
 {
-    "etag": "191b95c0de5afc62bc58584083b44a32c3d3e94b",
+    "etag": "76c5a7005500eea0ab09dbd18e11aff93a1236ca",
     "top_hit": {
         "company_name": "LKHE LEGACY LIMITED",
         "company_number": "15146430",
@@ -208,27 +208,6 @@
             },
             "sic_codes": [
                 "47990"
-            ]
-        },
-        {
-            "company_name": "PAULAPRO SKINCARE LTD",
-            "company_number": "15146442",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15146442"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "29 Willsbridge Covert",
-                "locality": "Birmingham",
-                "postal_code": "B14 5YD",
-                "region": "West Midlands",
-                "country": "United Kingdom"
-            },
-            "sic_codes": [
-                "47750"
             ]
         },
         {
@@ -882,26 +861,6 @@
             },
             "sic_codes": [
                 "43210"
-            ]
-        },
-        {
-            "company_name": "11X1 LUXURY LETS LTD",
-            "company_number": "15146535",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15146535"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "102 Trevino Drive",
-                "locality": "Leicester",
-                "postal_code": "LE4 7PH",
-                "country": "England"
-            },
-            "sic_codes": [
-                "98000"
             ]
         },
         {
@@ -2983,28 +2942,6 @@
             },
             "sic_codes": [
                 "52290"
-            ]
-        },
-        {
-            "company_name": "SRI VALLI HOMES LTD",
-            "company_number": "15146811",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15146811"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "9 Corbett Chase",
-                "address_line_2": "Gedling",
-                "locality": "Nottingham",
-                "postal_code": "NG4 4LU",
-                "country": "England"
-            },
-            "sic_codes": [
-                "68100",
-                "68320"
             ]
         },
         {
@@ -7372,26 +7309,6 @@
             ]
         },
         {
-            "company_name": "DEMMURE LIMITED",
-            "company_number": "15147446",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15147446"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "21 Houghton Road",
-                "locality": "Manchester",
-                "postal_code": "M8 5SQ",
-                "country": "England"
-            },
-            "sic_codes": [
-                "47710"
-            ]
-        },
-        {
             "company_name": "CRYPTO TAXATION LIMITED",
             "company_number": "15147447",
             "company_status": "active",
@@ -9728,27 +9645,6 @@
             ]
         },
         {
-            "company_name": "MUIREND SALON LTD",
-            "company_number": "SC783010",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/SC783010"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "Unit 6 Muirend Road",
-                "locality": "Portlethan",
-                "postal_code": "AB12 4XP",
-                "region": "Aberdeenshire",
-                "country": "Scotland"
-            },
-            "sic_codes": [
-                "96020"
-            ]
-        },
-        {
             "company_name": "NIGHTSCAPE LTD",
             "company_number": "SC783016",
             "company_status": "active",
@@ -10639,26 +10535,6 @@
                 "46190",
                 "46420",
                 "46450"
-            ]
-        },
-        {
-            "company_name": "ZAVERI & SONS PROPERTIES LTD",
-            "company_number": "15147853",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15147853"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "26 Knebworth Path",
-                "locality": "Borehamwood",
-                "postal_code": "WD6 2QW",
-                "country": "England"
-            },
-            "sic_codes": [
-                "98000"
             ]
         },
         {
@@ -20219,6 +20095,470 @@
             ]
         },
         {
+            "company_name": "ZADZWORLD CREATIVE STUDIO LTD",
+            "company_number": "15147763",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15147763"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "7 Bell Yard",
+                "locality": "London",
+                "postal_code": "WC2A 2JR",
+                "country": "England"
+            },
+            "sic_codes": [
+                "59112",
+                "74100",
+                "90030"
+            ]
+        },
+        {
+            "company_name": "BRIDGNORTH BARBERS LTD",
+            "company_number": "15146747",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146747"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Unit 1 57 Whitburn Street",
+                "locality": "Bridgnorth",
+                "postal_code": "WV16 4QP",
+                "region": "Shropshire",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "96020"
+            ]
+        },
+        {
+            "company_name": "SARI LIMON LIMITED",
+            "company_number": "15147313",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15147313"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "228 Thorne Road",
+                "locality": "Doncaster",
+                "postal_code": "DN2 5AG",
+                "country": "England"
+            },
+            "sic_codes": [
+                "56102",
+                "56103"
+            ]
+        },
+        {
+            "company_name": "SRI VALLI HOMES LTD",
+            "company_number": "15146811",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146811"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "9 Corbett Chase",
+                "address_line_2": "Gedling",
+                "locality": "Nottingham",
+                "postal_code": "NG4 4LU",
+                "country": "England"
+            },
+            "sic_codes": [
+                "68100",
+                "68201",
+                "68209",
+                "68320"
+            ]
+        },
+        {
+            "company_name": "EXOTIC RENTALS LTD",
+            "company_number": "15149284",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149284"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "243 Pretoria Road",
+                "locality": "Birmingham",
+                "postal_code": "B9 5LW",
+                "country": "England"
+            },
+            "sic_codes": [
+                "77110"
+            ]
+        },
+        {
+            "company_name": "G H HAWKINS LTD",
+            "company_number": "15146495",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146495"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "317 Old Wakefield Road",
+                "address_line_2": "Moldgreen",
+                "locality": "Huddersfield",
+                "postal_code": "HD5 8AA",
+                "region": "West Yorkshire",
+                "country": "England"
+            },
+            "sic_codes": [
+                "43320"
+            ]
+        },
+        {
+            "company_name": "ORGBITES LIMITED",
+            "company_number": "15149233",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149233"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "70 Curzon Street",
+                "locality": "Reading",
+                "postal_code": "RG30 1DA",
+                "country": "England"
+            },
+            "sic_codes": [
+                "46310",
+                "47210"
+            ]
+        },
+        {
+            "company_name": "Z ARCH ENTERPRISES LTD",
+            "company_number": "15149231",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149231"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "8 Meyers Close",
+                "locality": "Slough",
+                "postal_code": "SL3 7DS",
+                "country": "England"
+            },
+            "sic_codes": [
+                "47910",
+                "47990",
+                "68209",
+                "98000"
+            ]
+        },
+        {
+            "company_name": "BUBBLER MOBILE BAR LTD",
+            "company_number": "15149230",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149230"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "42 Brookfield Road",
+                "locality": "London",
+                "postal_code": "N9 0DN",
+                "country": "England"
+            },
+            "sic_codes": [
+                "56302"
+            ]
+        },
+        {
+            "company_name": "OOSH LTD",
+            "company_number": "15149228",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149228"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "480a Roundhay Road",
+                "locality": "Leeds",
+                "postal_code": "LS8 2HU",
+                "country": "England"
+            },
+            "sic_codes": [
+                "70229",
+                "82990"
+            ]
+        },
+        {
+            "company_name": "L&N PROMOTIONS LIMITED",
+            "company_number": "15146508",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146508"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Lynton House",
+                "address_line_2": "7-12 Tavistock Square",
+                "locality": "London",
+                "postal_code": "WC1H 9BQ",
+                "country": "England"
+            },
+            "sic_codes": [
+                "82990"
+            ]
+        },
+        {
+            "company_name": "VUDIX SHIPPING UK LTD",
+            "company_number": "15147898",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15147898"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "292 London Road",
+                "locality": "Croydon",
+                "postal_code": "CR0 2TG",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "52101",
+                "52290"
+            ]
+        },
+        {
+            "company_name": "MUIREND SALON LTD",
+            "company_number": "SC783010",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/SC783010"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Unit 6 Muirend Road",
+                "locality": "Portlethen",
+                "postal_code": "AB12 4XP",
+                "region": "Aberdeenshire",
+                "country": "Scotland"
+            },
+            "sic_codes": [
+                "96020"
+            ]
+        },
+        {
+            "company_name": "VROOMVROOMMOTORS LTD",
+            "company_number": "15149252",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149252"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Old Works Bridge Terrace",
+                "address_line_2": "Llanbadarn Fawr",
+                "locality": "Aberystwyth",
+                "postal_code": "SY23 3RD",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "45112"
+            ]
+        },
+        {
+            "company_name": "RL CONSULTING LTD",
+            "company_number": "15149279",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149279"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "17 Caernarvon Drive",
+                "address_line_2": "Rhiwderin",
+                "locality": "Newport",
+                "postal_code": "NP10 8QT",
+                "country": "Wales"
+            },
+            "sic_codes": [
+                "62020"
+            ]
+        },
+        {
+            "company_name": "SENMAC HEATING SOLUTIONS LTD",
+            "company_number": "SC783141",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/SC783141"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "10 Appleby Place",
+                "locality": "Dundee",
+                "postal_code": "DD3 9BL",
+                "country": "Scotland"
+            },
+            "sic_codes": [
+                "43220"
+            ]
+        },
+        {
+            "company_name": "ON THE WAY WASHING LIMITED",
+            "company_number": "15149270",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149270"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "42 Tenby Avenue",
+                "locality": "Harrow",
+                "postal_code": "HA3 8RX",
+                "country": "England"
+            },
+            "sic_codes": [
+                "95210"
+            ]
+        },
+        {
+            "company_name": "ROHANTRADER LTD",
+            "company_number": "15149272",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149272"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "182-184 High Street North",
+                "locality": "London",
+                "postal_code": "E6 2JA",
+                "country": "England"
+            },
+            "sic_codes": [
+                "47910"
+            ]
+        },
+        {
+            "company_name": "VG KEBAB LTD",
+            "company_number": "15149274",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149274"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "434 Waterloo Road",
+                "locality": "Stoke-On-Trent",
+                "postal_code": "ST1 5DL",
+                "country": "England"
+            },
+            "sic_codes": [
+                "56103"
+            ]
+        },
+        {
+            "company_name": "FUMIS CONSULTING LIMITED",
+            "company_number": "15146844",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146844"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Fred Wigg Tower Flat 117",
+                "address_line_2": "Fred Wigg Tower",
+                "locality": "Brushwood",
+                "postal_code": "E11 3EP",
+                "region": "Brushwood",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "82190"
+            ]
+        },
+        {
+            "company_name": "ZAVERI & SONS PROPERTIES LTD",
+            "company_number": "15147853",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15147853"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "26 Knebworth Path",
+                "locality": "Borehamwood",
+                "postal_code": "WD6 2QW",
+                "country": "England"
+            },
+            "sic_codes": [
+                "68100",
+                "68209",
+                "68320"
+            ]
+        },
+        {
+            "company_name": "11XI LUXURY LETS LTD",
+            "company_number": "15146535",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146535"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "102 Trevino Drive",
+                "locality": "Leicester",
+                "postal_code": "LE4 7PH",
+                "country": "England"
+            },
+            "sic_codes": [
+                "98000"
+            ]
+        },
+        {
             "company_name": "JOSH DEXTER LTD",
             "company_number": "15149257",
             "company_status": "active",
@@ -20609,130 +20949,147 @@
             ]
         },
         {
-            "company_name": "ORGBITES LIMITED",
-            "company_number": "15149233",
+            "company_name": "LANDLORD REPAIR SERVICES LTD",
+            "company_number": "15149225",
             "company_status": "active",
             "company_type": "ltd",
             "kind": "search-results#company",
             "links": {
-                "company_profile": "/company/15149233"
+                "company_profile": "/company/15149225"
             },
             "date_of_creation": "2023-09-19",
             "registered_office_address": {
-                "address_line_1": "70 Curzon Street",
-                "locality": "Reading",
-                "postal_code": "RG30 1DA",
-                "country": "England"
-            },
-            "sic_codes": [
-                "46310",
-                "47210"
-            ]
-        },
-        {
-            "company_name": "Z ARCH ENTERPRISES LTD",
-            "company_number": "15149231",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149231"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "8 Meyers Close",
-                "locality": "Slough",
-                "postal_code": "SL3 7DS",
-                "country": "England"
-            },
-            "sic_codes": [
-                "47910",
-                "47990",
-                "68209",
-                "98000"
-            ]
-        },
-        {
-            "company_name": "BUBBLER MOBILE BAR LTD",
-            "company_number": "15149230",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149230"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "42 Brookfield Road",
-                "locality": "London",
-                "postal_code": "N9 0DN",
-                "country": "England"
-            },
-            "sic_codes": [
-                "56302"
-            ]
-        },
-        {
-            "company_name": "OOSH LTD",
-            "company_number": "15149228",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149228"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "480a Roundhay Road",
-                "locality": "Leeds",
-                "postal_code": "LS8 2HU",
-                "country": "England"
-            },
-            "sic_codes": [
-                "70229",
-                "82990"
-            ]
-        },
-        {
-            "company_name": "L&N PROMOTIONS LIMITED",
-            "company_number": "15146508",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15146508"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "Lynton House",
-                "address_line_2": "7-12 Tavistock Square",
-                "locality": "London",
-                "postal_code": "WC1H 9BQ",
-                "country": "England"
-            },
-            "sic_codes": [
-                "82990"
-            ]
-        },
-        {
-            "company_name": "VUDIX SHIPPING UK LTD",
-            "company_number": "15147898",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15147898"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "292 London Road",
-                "locality": "Croydon",
-                "postal_code": "CR0 2TG",
+                "address_line_1": "56 Danby Road",
+                "locality": "Hyde",
+                "postal_code": "SK14 4AE",
+                "region": "Greater Manchester",
                 "country": "United Kingdom"
             },
             "sic_codes": [
-                "52101",
-                "52290"
+                "71122"
+            ]
+        },
+        {
+            "company_name": "WEST MERCIA HOSTING LIMITED",
+            "company_number": "15149224",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149224"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "86-90 Paul Street",
+                "locality": "London",
+                "postal_code": "EC2A 4NE",
+                "region": "England",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "63110"
+            ]
+        },
+        {
+            "company_name": "PAULAPRO SKINCARE LTD",
+            "company_number": "15146442",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146442"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "86-90 Paul Street",
+                "locality": "London",
+                "postal_code": "EC2A 4NE",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "47750"
+            ]
+        },
+        {
+            "company_name": "FIT BOXING LTD",
+            "company_number": "15149245",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149245"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "59 Hartland Drive",
+                "locality": "Edgware",
+                "postal_code": "HA8 8RJ",
+                "country": "England"
+            },
+            "sic_codes": [
+                "47910"
+            ]
+        },
+        {
+            "company_name": "EAK LOGISTICS LTD",
+            "company_number": "15149244",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15149244"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "11 Hazel Close",
+                "locality": "Worcester",
+                "postal_code": "WR4 9RZ",
+                "country": "England"
+            },
+            "sic_codes": [
+                "49410"
+            ]
+        },
+        {
+            "company_name": "T2GREEN LTD",
+            "company_number": "SC783106",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/SC783106"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Unit 4b Gateway Business Park",
+                "address_line_2": "Beancross Road",
+                "locality": "Grangemouth",
+                "postal_code": "FK3 8WX",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "93110",
+                "93199"
+            ]
+        },
+        {
+            "company_name": "PINGZHAODUAN LTD",
+            "company_number": "15148366",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15148366"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "14 Woodside Road",
+                "locality": "London",
+                "postal_code": "SE25 5DY",
+                "country": "England"
+            },
+            "sic_codes": [
+                "47910"
             ]
         },
         {
@@ -20861,377 +21218,23 @@
             ]
         },
         {
-            "company_name": "ZADZWORLD CREATIVE STUDIO LTD",
-            "company_number": "15147763",
+            "company_name": "DIMUERRE LIMITED",
+            "company_number": "15147446",
             "company_status": "active",
             "company_type": "ltd",
             "kind": "search-results#company",
             "links": {
-                "company_profile": "/company/15147763"
+                "company_profile": "/company/15147446"
             },
             "date_of_creation": "2023-09-19",
             "registered_office_address": {
-                "address_line_1": "7 Bell Yard",
-                "locality": "London",
-                "postal_code": "WC2A 2JR",
+                "address_line_1": "21 Houghton Road",
+                "locality": "Manchester",
+                "postal_code": "M8 5SQ",
                 "country": "England"
             },
             "sic_codes": [
-                "59112",
-                "74100",
-                "90030"
-            ]
-        },
-        {
-            "company_name": "BRIDGNORTH BARBERS LTD",
-            "company_number": "15146747",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15146747"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "Unit 1 57 Whitburn Street",
-                "locality": "Bridgnorth",
-                "postal_code": "WV16 4QP",
-                "region": "Shropshire",
-                "country": "United Kingdom"
-            },
-            "sic_codes": [
-                "96020"
-            ]
-        },
-        {
-            "company_name": "SARI LIMON LIMITED",
-            "company_number": "15147313",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15147313"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "228 Thorne Road",
-                "locality": "Doncaster",
-                "postal_code": "DN2 5AG",
-                "country": "England"
-            },
-            "sic_codes": [
-                "56102",
-                "56103"
-            ]
-        },
-        {
-            "company_name": "LANDLORD REPAIR SERVICES LTD",
-            "company_number": "15149225",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149225"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "56 Danby Road",
-                "locality": "Hyde",
-                "postal_code": "SK14 4AE",
-                "region": "Greater Manchester",
-                "country": "United Kingdom"
-            },
-            "sic_codes": [
-                "71122"
-            ]
-        },
-        {
-            "company_name": "WEST MERCIA HOSTING LIMITED",
-            "company_number": "15149224",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149224"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "86-90 Paul Street",
-                "locality": "London",
-                "postal_code": "EC2A 4NE",
-                "region": "England",
-                "country": "United Kingdom"
-            },
-            "sic_codes": [
-                "63110"
-            ]
-        },
-        {
-            "company_name": "EXOTIC RENTALS LTD",
-            "company_number": "15149284",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149284"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "243 Pretoria Road",
-                "locality": "Birmingham",
-                "postal_code": "B9 5LW",
-                "country": "England"
-            },
-            "sic_codes": [
-                "77110"
-            ]
-        },
-        {
-            "company_name": "G H HAWKINS LTD",
-            "company_number": "15146495",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15146495"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "317 Old Wakefield Road",
-                "address_line_2": "Moldgreen",
-                "locality": "Huddersfield",
-                "postal_code": "HD5 8AA",
-                "region": "West Yorkshire",
-                "country": "England"
-            },
-            "sic_codes": [
-                "43320"
-            ]
-        },
-        {
-            "company_name": "FIT BOXING LTD",
-            "company_number": "15149245",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149245"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "59 Hartland Drive",
-                "locality": "Edgware",
-                "postal_code": "HA8 8RJ",
-                "country": "England"
-            },
-            "sic_codes": [
-                "47910"
-            ]
-        },
-        {
-            "company_name": "EAK LOGISTICS LTD",
-            "company_number": "15149244",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149244"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "11 Hazel Close",
-                "locality": "Worcester",
-                "postal_code": "WR4 9RZ",
-                "country": "England"
-            },
-            "sic_codes": [
-                "49410"
-            ]
-        },
-        {
-            "company_name": "T2GREEN LTD",
-            "company_number": "SC783106",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/SC783106"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "Unit 4b Gateway Business Park",
-                "address_line_2": "Beancross Road",
-                "locality": "Grangemouth",
-                "postal_code": "FK3 8WX",
-                "country": "United Kingdom"
-            },
-            "sic_codes": [
-                "93110",
-                "93199"
-            ]
-        },
-        {
-            "company_name": "PINGZHAODUAN LTD",
-            "company_number": "15148366",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15148366"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "14 Woodside Road",
-                "locality": "London",
-                "postal_code": "SE25 5DY",
-                "country": "England"
-            },
-            "sic_codes": [
-                "47910"
-            ]
-        },
-        {
-            "company_name": "VROOMVROOMMOTORS LTD",
-            "company_number": "15149252",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149252"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "Old Works Bridge Terrace",
-                "address_line_2": "Llanbadarn Fawr",
-                "locality": "Aberystwyth",
-                "postal_code": "SY23 3RD",
-                "country": "United Kingdom"
-            },
-            "sic_codes": [
-                "45112"
-            ]
-        },
-        {
-            "company_name": "RL CONSULTING LTD",
-            "company_number": "15149279",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149279"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "17 Caernarvon Drive",
-                "address_line_2": "Rhiwderin",
-                "locality": "Newport",
-                "postal_code": "NP10 8QT",
-                "country": "Wales"
-            },
-            "sic_codes": [
-                "62020"
-            ]
-        },
-        {
-            "company_name": "SENMAC HEATING SOLUTIONS LTD",
-            "company_number": "SC783141",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/SC783141"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "10 Appleby Place",
-                "locality": "Dundee",
-                "postal_code": "DD3 9BL",
-                "country": "Scotland"
-            },
-            "sic_codes": [
-                "43220"
-            ]
-        },
-        {
-            "company_name": "ON THE WAY WASHING LIMITED",
-            "company_number": "15149270",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149270"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "42 Tenby Avenue",
-                "locality": "Harrow",
-                "postal_code": "HA3 8RX",
-                "country": "England"
-            },
-            "sic_codes": [
-                "95210"
-            ]
-        },
-        {
-            "company_name": "ROHANTRADER LTD",
-            "company_number": "15149272",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149272"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "182-184 High Street North",
-                "locality": "London",
-                "postal_code": "E6 2JA",
-                "country": "England"
-            },
-            "sic_codes": [
-                "47910"
-            ]
-        },
-        {
-            "company_name": "VG KEBAB LTD",
-            "company_number": "15149274",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15149274"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "434 Waterloo Road",
-                "locality": "Stoke-On-Trent",
-                "postal_code": "ST1 5DL",
-                "country": "England"
-            },
-            "sic_codes": [
-                "56103"
-            ]
-        },
-        {
-            "company_name": "FUMIS CONSULTING LIMITED",
-            "company_number": "15146844",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15146844"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "Fred Wigg Tower Flat 117",
-                "address_line_2": "Fred Wigg Tower",
-                "locality": "Brushwood",
-                "postal_code": "E11 3EP",
-                "region": "Brushwood",
-                "country": "United Kingdom"
-            },
-            "sic_codes": [
-                "82190"
+                "47710"
             ]
         },
         {
@@ -41468,26 +41471,6 @@
             ]
         },
         {
-            "company_name": "SPARK\u2019S INTERIOR ACCESSORIES LTD",
-            "company_number": "15148308",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15148308"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "70 Park Lane",
-                "locality": "Hayes",
-                "postal_code": "UB4 8AB",
-                "country": "England"
-            },
-            "sic_codes": [
-                "43290"
-            ]
-        },
-        {
             "company_name": "PREETI KAUR LTD",
             "company_number": "SC783081",
             "company_status": "active",
@@ -43203,26 +43186,6 @@
             ]
         },
         {
-            "company_name": "INDIAN & KEBABWALA LTD",
-            "company_number": "15146523",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15146523"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "169 Pentregethin Road Ravenhill",
-                "locality": "Swansea",
-                "postal_code": "SA5 5AH",
-                "country": "United Kingdom"
-            },
-            "sic_codes": [
-                "56103"
-            ]
-        },
-        {
             "company_name": "NEW LINE E-COM LLP",
             "company_number": "OC449138",
             "company_status": "active",
@@ -43700,6 +43663,26 @@
             ]
         },
         {
+            "company_name": "SPARK INTERIOR ACCESSORIES LTD",
+            "company_number": "15148308",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15148308"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "70 Park Lane",
+                "locality": "Hayes",
+                "postal_code": "UB4 8AB",
+                "country": "England"
+            },
+            "sic_codes": [
+                "43290"
+            ]
+        },
+        {
             "company_name": "HEATON NAILS BAR LTD",
             "company_number": "15148200",
             "company_status": "active",
@@ -43717,6 +43700,26 @@
             },
             "sic_codes": [
                 "96020"
+            ]
+        },
+        {
+            "company_name": "INDIAN & KEBABWALA LTD",
+            "company_number": "15146523",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146523"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "169 Ravenhill Road Ravenhill",
+                "locality": "Swansea",
+                "postal_code": "SA5 5AH",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "56103"
             ]
         },
         {
@@ -44703,26 +44706,6 @@
             },
             "sic_codes": [
                 "43999"
-            ]
-        },
-        {
-            "company_name": "BURNETT & FORBES LTD",
-            "company_number": "15146876",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15146876"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "317 Muswell Hill Broadway",
-                "locality": "London",
-                "postal_code": "N10 1BY",
-                "country": "England"
-            },
-            "sic_codes": [
-                "70229"
             ]
         },
         {
@@ -56915,27 +56898,6 @@
             ]
         },
         {
-            "company_name": "NOVI GLOBAL LTD",
-            "company_number": "15147727",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15147727"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "Apartment 28 Hounds Gate House 41-43 Hounds Gate",
-                "locality": "Nottingham",
-                "postal_code": "NG1 7AA",
-                "country": "England"
-            },
-            "sic_codes": [
-                "78109",
-                "78200"
-            ]
-        },
-        {
             "company_name": "RED ART LONDON LTD",
             "company_number": "15147725",
             "company_status": "active",
@@ -65767,28 +65729,6 @@
             ]
         },
         {
-            "company_name": "GRANGE STEELWORK & CLADDING LTD",
-            "company_number": "15147193",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15147193"
-            },
-            "date_of_creation": "2023-09-19",
-            "registered_office_address": {
-                "address_line_1": "Solway Business Centre",
-                "address_line_2": "Parkhouse Road",
-                "locality": "Carlisle",
-                "postal_code": "CA6 4BY",
-                "region": "Cumbria",
-                "country": "England"
-            },
-            "sic_codes": [
-                "71121"
-            ]
-        },
-        {
             "company_name": "DELKASH LTD",
             "company_number": "15149253",
             "company_status": "active",
@@ -65807,6 +65747,69 @@
             "sic_codes": [
                 "47770",
                 "47910"
+            ]
+        },
+        {
+            "company_name": "VICTORIA'S CAREER CONNECT LTD",
+            "company_number": "15147727",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15147727"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Apartment 28 Hounds Gate House 41-43 Hounds Gate",
+                "locality": "Nottingham",
+                "postal_code": "NG1 7AA",
+                "country": "England"
+            },
+            "sic_codes": [
+                "78109",
+                "78200"
+            ]
+        },
+        {
+            "company_name": "BURNETT & FORBES LTD",
+            "company_number": "15146876",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15146876"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "128 City Road City Road",
+                "locality": "London",
+                "postal_code": "EC1V 2NX",
+                "country": "England"
+            },
+            "sic_codes": [
+                "70229"
+            ]
+        },
+        {
+            "company_name": "GRANGE STEELWORK & CLADDING LTD",
+            "company_number": "15147193",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15147193"
+            },
+            "date_of_creation": "2023-09-19",
+            "registered_office_address": {
+                "address_line_1": "Brockan Beck",
+                "address_line_2": "Bothel",
+                "locality": "Wigton",
+                "postal_code": "CA7 2JQ",
+                "region": "Cumbria",
+                "country": "England"
+            },
+            "sic_codes": [
+                "71121"
             ]
         }
     ],

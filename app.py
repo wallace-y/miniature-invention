@@ -40,6 +40,7 @@ exclude_words = [
     "LLP",
     "CIC",
     "OF",
+    "COMPANY",
 ]  # Words to exclude
 top_names_data = top_10_names.get_top_names_from_csv(
     co_name_file_path, exclude_words, top_n=10
@@ -54,9 +55,9 @@ app.layout = html.Div(
         html.H1(children="Company Incorporation Analysis", className="header-title"),
         html.P(
             children=(
-                "Analysis of UK companies incorporation data in the past week 18-09-2023 - 24-09-2023"
+                "Analysis of UK companies incorporation data 1 September 2023 to 26 September 2023"
             ),
-            className="sub-header"
+            className="sub-header",
         ),
         html.Div(
             className="dash-row",
@@ -76,8 +77,8 @@ app.layout = html.Div(
                     className="dash-column",
                     children=[
                         dcc.Graph(
-                            figure=num_companies_pie.create_pie_chart(
-                                num_companies_pie_data
+                            figure=num_cos_pie_by_type.create_pie_chart(
+                                num_companies_pie_data_type
                             ),
                             className="dash-graph",
                         ),
@@ -91,11 +92,11 @@ app.layout = html.Div(
                 html.Div(
                     className="dash-column",
                     children=[
-                        dcc.Graph(
-                            figure=num_cos_pie_by_type.create_pie_chart(
-                                num_companies_pie_data_type
-                            ),
-                            className="dash-graph",
+                        html.H2(children="Top 10 Words", className="sub-header"),
+                        html.Ul(
+                            [html.Li(word) for word in top_names_data],
+                            style={"list-style-type": "square"},
+                            className="top-words-list",
                         ),
                     ],
                 ),
@@ -111,17 +112,6 @@ app.layout = html.Div(
                     ],
                 ),
             ],
-        ),
-        html.Div(
-            children=[
-                html.H2(children="Top 10 Words", className="sub-header"),
-                html.Ul(
-                    [html.Li(word) for word in top_names_data],
-                    style={"list-style-type": "square"},
-                    className="top-words-list",
-                ),
-            ],
-            className="top-words-container",
         ),
     ]
 )

@@ -1,5 +1,5 @@
 {
-    "etag": "2d6a6ed2b080568df9fd46848f37a753228350a9",
+    "etag": "f2eb68120779cc1b47a49da5c3c96f793db9f67f",
     "top_hit": {
         "company_name": "STEWART MEDIA LTD",
         "company_number": "NI701876",
@@ -595,26 +595,6 @@
                 "46190",
                 "46420",
                 "46450"
-            ]
-        },
-        {
-            "company_name": "BITHUB TRADING LIMITED",
-            "company_number": "15143311",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15143311"
-            },
-            "date_of_creation": "2023-09-18",
-            "registered_office_address": {
-                "address_line_1": "61 Bridge Street",
-                "locality": "Kington",
-                "postal_code": "HR5 3DJ",
-                "country": "United Kingdom"
-            },
-            "sic_codes": [
-                "62090"
             ]
         },
         {
@@ -8321,26 +8301,6 @@
             },
             "sic_codes": [
                 "96090"
-            ]
-        },
-        {
-            "company_name": "I DESIGN INTERIOR CHESHIRE LIMITED",
-            "company_number": "15144322",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15144322"
-            },
-            "date_of_creation": "2023-09-18",
-            "registered_office_address": {
-                "address_line_1": "93 Withington Road",
-                "locality": "Stoke-On-Trent",
-                "postal_code": "ST6 6RU",
-                "country": "England"
-            },
-            "sic_codes": [
-                "43320"
             ]
         },
         {
@@ -22097,48 +22057,6 @@
             ]
         },
         {
-            "company_name": "ADTA MEDIA LIMITED",
-            "company_number": "15145140",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15145140"
-            },
-            "date_of_creation": "2023-09-18",
-            "registered_office_address": {
-                "address_line_1": "Unit A",
-                "address_line_2": "82 James Carter Road",
-                "locality": "Mildenhall",
-                "postal_code": "IP28 7DE",
-                "region": "Suffolk",
-                "country": "England"
-            },
-            "sic_codes": [
-                "73120"
-            ]
-        },
-        {
-            "company_name": "KATHY NEAL MEDIA LTD",
-            "company_number": "15143447",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15143447"
-            },
-            "date_of_creation": "2023-09-18",
-            "registered_office_address": {
-                "address_line_1": "1a Lady Margaret Road",
-                "locality": "London",
-                "postal_code": "NW5 2NE",
-                "country": "England"
-            },
-            "sic_codes": [
-                "63120"
-            ]
-        },
-        {
             "company_name": "AYDEMIR CONSULTING GROUP LTD",
             "company_number": "15144781",
             "company_status": "active",
@@ -22157,6 +22075,48 @@
             },
             "sic_codes": [
                 "70229"
+            ]
+        },
+        {
+            "company_name": "I DESIGN INTERIOR CHESHIRE LIMITED",
+            "company_number": "15144322",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15144322"
+            },
+            "date_of_creation": "2023-09-18",
+            "registered_office_address": {
+                "address_line_1": "5-7 Rood Hill",
+                "locality": "Congleton",
+                "postal_code": "CW12 1LQ",
+                "region": "Cheshire",
+                "country": "England"
+            },
+            "sic_codes": [
+                "43320"
+            ]
+        },
+        {
+            "company_name": "AOGG PAYROLL LTD.",
+            "company_number": "15145124",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15145124"
+            },
+            "date_of_creation": "2023-09-18",
+            "registered_office_address": {
+                "address_line_1": "1 Sandy Lane Cottages Sandy Lane",
+                "address_line_2": "West Hoathly",
+                "locality": "East Grinstead",
+                "postal_code": "RH19 4QQ",
+                "country": "England"
+            },
+            "sic_codes": [
+                "78300"
             ]
         },
         {
@@ -22205,24 +22165,66 @@
             ]
         },
         {
-            "company_name": "AOGG PAYROLL LTD.",
-            "company_number": "15145124",
+            "company_name": "ADTA MEDIA LIMITED",
+            "company_number": "15145140",
             "company_status": "active",
             "company_type": "ltd",
             "kind": "search-results#company",
             "links": {
-                "company_profile": "/company/15145124"
+                "company_profile": "/company/15145140"
             },
             "date_of_creation": "2023-09-18",
             "registered_office_address": {
-                "address_line_1": "1 Sandy Lane Cottages Sandy Lane",
-                "address_line_2": "West Hoathly",
-                "locality": "East Grinstead",
-                "postal_code": "RH19 4QQ",
+                "address_line_1": "Unit A",
+                "address_line_2": "82 James Carter Road",
+                "locality": "Mildenhall",
+                "postal_code": "IP28 7DE",
+                "region": "Suffolk",
                 "country": "England"
             },
             "sic_codes": [
-                "78300"
+                "73120"
+            ]
+        },
+        {
+            "company_name": "BITHUB TRADING LIMITED",
+            "company_number": "15143311",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15143311"
+            },
+            "date_of_creation": "2023-09-18",
+            "registered_office_address": {
+                "address_line_1": "Hm Revenue And Customs",
+                "address_line_2": "Victoria Street",
+                "locality": "Grimsby",
+                "postal_code": "DN31 1DB",
+                "country": "England"
+            },
+            "sic_codes": [
+                "62090"
+            ]
+        },
+        {
+            "company_name": "KATHY NEAL MEDIA LTD",
+            "company_number": "15143447",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15143447"
+            },
+            "date_of_creation": "2023-09-18",
+            "registered_office_address": {
+                "address_line_1": "1a Lady Margaret Road",
+                "locality": "London",
+                "postal_code": "NW5 2NE",
+                "country": "England"
+            },
+            "sic_codes": [
+                "63120"
             ]
         },
         {
@@ -25884,27 +25886,6 @@
             },
             "sic_codes": [
                 "87900"
-            ]
-        },
-        {
-            "company_name": "PREMIER CARPET CLEANING M LTD",
-            "company_number": "15143556",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15143556"
-            },
-            "date_of_creation": "2023-09-18",
-            "registered_office_address": {
-                "address_line_1": "590-598 Elder House West",
-                "address_line_2": "Co-Space",
-                "locality": "Milton Keynes",
-                "postal_code": "MK9 1LR",
-                "country": "United Kingdom"
-            },
-            "sic_codes": [
-                "81222"
             ]
         },
         {
@@ -43884,6 +43865,26 @@
             ]
         },
         {
+            "company_name": "PREMIER CARPET CLEANING M LTD",
+            "company_number": "15143556",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15143556"
+            },
+            "date_of_creation": "2023-09-18",
+            "registered_office_address": {
+                "address_line_1": "590 Elder House West",
+                "locality": "Milton Keynes",
+                "postal_code": "MK9 1LR",
+                "country": "United Kingdom"
+            },
+            "sic_codes": [
+                "81222"
+            ]
+        },
+        {
             "company_name": "MHL INSULATION LIMITED",
             "company_number": "SC782847",
             "company_status": "active",
@@ -48154,28 +48155,6 @@
                 "56101",
                 "68100",
                 "68209"
-            ]
-        },
-        {
-            "company_name": "PROVOST BREWERY COMPANY LTD",
-            "company_number": "15143610",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15143610"
-            },
-            "date_of_creation": "2023-09-18",
-            "registered_office_address": {
-                "address_line_1": "The Old Brewery, Brewery Yard",
-                "address_line_2": "Off Wallgate",
-                "locality": "Wigan",
-                "postal_code": "WN1 1JU",
-                "region": "Greater Manchester",
-                "country": "United Kingdom"
-            },
-            "sic_codes": [
-                "11050"
             ]
         },
         {
@@ -56957,26 +56936,6 @@
             ]
         },
         {
-            "company_name": "SOLA GRATIA SOLUTIONS LTD",
-            "company_number": "15145726",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15145726"
-            },
-            "date_of_creation": "2023-09-18",
-            "registered_office_address": {
-                "address_line_1": "85 Soames Crescent",
-                "locality": "Stoke-On-Trent",
-                "postal_code": "ST3 5UE",
-                "country": "England"
-            },
-            "sic_codes": [
-                "86900"
-            ]
-        },
-        {
             "company_name": "PORTER'S CLEANING SERVICES LTD",
             "company_number": "15145728",
             "company_status": "active",
@@ -60433,26 +60392,6 @@
             },
             "sic_codes": [
                 "70229"
-            ]
-        },
-        {
-            "company_name": "HUSTLE HR LTD",
-            "company_number": "15145128",
-            "company_status": "active",
-            "company_type": "ltd",
-            "kind": "search-results#company",
-            "links": {
-                "company_profile": "/company/15145128"
-            },
-            "date_of_creation": "2023-09-18",
-            "registered_office_address": {
-                "address_line_1": "12a Station Field Industrial Estate",
-                "locality": "Kidlington",
-                "postal_code": "OX5 1JD",
-                "country": "England"
-            },
-            "sic_codes": [
-                "78300"
             ]
         },
         {
@@ -66278,6 +66217,27 @@
             ]
         },
         {
+            "company_name": "PROVOST BREWERY COMPANY LTD",
+            "company_number": "15143610",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15143610"
+            },
+            "date_of_creation": "2023-09-18",
+            "registered_office_address": {
+                "address_line_1": "58 The Fields",
+                "address_line_2": "Eccleston",
+                "locality": "Chorley",
+                "postal_code": "PR7 5SD",
+                "country": "England"
+            },
+            "sic_codes": [
+                "11050"
+            ]
+        },
+        {
             "company_name": "TECHNOLOGY SUPPLY ENTERPRISES LIMITED",
             "company_number": "15144984",
             "company_status": "active",
@@ -66297,6 +66257,50 @@
             },
             "sic_codes": [
                 "47910"
+            ]
+        },
+        {
+            "company_name": "HUSTLE HR LTD",
+            "company_number": "15145128",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15145128"
+            },
+            "date_of_creation": "2023-09-18",
+            "registered_office_address": {
+                "address_line_1": "12a Station Field Industrial Estate",
+                "locality": "Kidlington",
+                "postal_code": "OX5 1JD",
+                "country": "England"
+            },
+            "sic_codes": [
+                "62090",
+                "70210",
+                "78300"
+            ]
+        },
+        {
+            "company_name": "SOLA GRATIA SOLUTIONS LTD",
+            "company_number": "15145726",
+            "company_status": "active",
+            "company_type": "ltd",
+            "kind": "search-results#company",
+            "links": {
+                "company_profile": "/company/15145726"
+            },
+            "date_of_creation": "2023-09-18",
+            "registered_office_address": {
+                "address_line_1": "Suite 7a Grosvenor House",
+                "address_line_2": "Chapel Street",
+                "locality": "Congleton",
+                "postal_code": "CW12 4AB",
+                "region": "Cheshire",
+                "country": "England"
+            },
+            "sic_codes": [
+                "86900"
             ]
         }
     ],
