@@ -60,7 +60,7 @@ app.layout = html.Div(
         html.H1(children="Company Incorporation Analysis", className="header-title"),
         html.P(
             children=(
-                "Analysis of UK companies incorporation data 1 September 2023 to 26 September 2023"
+                "Analysis of UK companies incorporation data 1 September 2023 to 30 September 2023"
             ),
             className="sub-header",
         ),

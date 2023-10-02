@@ -7,7 +7,6 @@ def read_data_from_csv(file_path):
         # Read the CSV file into a DataFrame
         df = pd.read_csv(file_path)
 
-        print("here at least")
         return df
     except Exception as e:
         print(f"Error reading data from {file_path}: {str(e)}")

@@ -20,7 +20,7 @@ for filename in os.listdir(csv_directory):
             csv_reader = csv.reader(csv_file)
             next(csv_reader)  # Skip the header row
             for row in csv_reader:
-                _, _, company_name = row
+                _, _, company_name, _ = row
                 # Split the company name into words based on spaces
                 words = company_name.split()
                 # Update the word frequency Counter
