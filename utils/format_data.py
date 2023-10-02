@@ -32,19 +32,3 @@ def save_json_api_data_to_csv(file_name):
                 }
             )
         print(f"{file_name} correctly formatted")
-
-save_json_api_data_to_csv("./data/2023-09/2023-09-13-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-14-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-15-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-16-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-17-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-18-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-19-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-20-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-21-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-22-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-23-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-24-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-25-data.json")
-save_json_api_data_to_csv("./data/2023-09/2023-09-26-data.json")
-
